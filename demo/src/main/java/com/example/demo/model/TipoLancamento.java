@@ -1,4 +1,6 @@
 package com.example.demo.model;
 
-public class TipoLancamento {
+public enum TipoLancamento {
+    RECEITA,
+    DESPESA
 }
